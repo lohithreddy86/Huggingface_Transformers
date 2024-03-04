@@ -1,4 +1,5 @@
 [core]
     remote = storage
+    hardlink_lock = true
 ['remote "storage"']
     url = gdrive://1P5Tg7xKsbuBxPJHzIo-ML1GCcUFpmsok
